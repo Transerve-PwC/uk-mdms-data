@@ -6,19 +6,19 @@
       "name": "Residential",
       "code": "RESIDENTIAL",
       "active": true,
-      "fromFY": "2014-15"
+      "fromFY": "2015-16"
     },
     {
-      "name": "Non-Residential",
+      "name": "NonResidential",
       "code": "NONRESIDENTIAL",
       "active": true,
-      "fromFY": "2014-15"
+      "fromFY": "2015-16"
     },
     {
       "name": "Mixed",
       "code": "MIXED",
       "active": true,
-      "fromFY": "2014-15"
+      "fromFY": "2015-16"
     }
   ]
 }
