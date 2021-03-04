@@ -1,0 +1,48 @@
+{
+  "tenantId": "uk",
+  "moduleName": "PropertyTax",
+  "UlbDetails": [
+    {
+      "id": 1,
+      "code": "uk.dehradun",
+      "name": "Dehradun",
+      "type": "Nagar Nigam",
+      "label": "ULB"
+    },
+    {
+      "id": 2,
+      "code": "uk.haldwani",
+      "name": "Haldwani",
+      "type": "Nagar Nigam",
+      "label": "ULB"
+    },
+    {
+      "id": 3,
+      "code": "uk.ramnagar",
+      "name": "Ramnagar",
+      "type": "Nagar Palika",
+      "label": "ULB"
+    },
+    {
+      "id": 4,
+      "code": "uk.kaladhungi",
+      "name": "Kaladhungi",
+      "type": "Nagar Panchayat",
+      "label": "ULB"
+    },
+    {
+      "id": 5,
+      "code": "uk.mussorie",
+      "name": "Mussorie",
+      "type": "Nagar Palika",
+      "label": "ULB"
+    },
+    {
+      "id": 6,
+      "code": "uk.doiwala",
+      "name": "Doiwala",
+      "type": "Nagar Palika",
+      "label": "ULB"
+    }
+  ]
+}

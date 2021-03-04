@@ -1,0 +1,97 @@
+{
+  "tenantId": "uk",
+  "moduleName": "tenant",
+  "tenantInfo": [
+    {
+      "code": "uk.dehradun",
+      "districtCode": "DEHRADUN",
+      "population": "1234",
+      "malePopulation": "12",
+      "femalePopultion": "134",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "uk.haldwani",
+      "districtCode": "HALDWANI",
+      "population": "116449",
+      "malePopulation": "62554",
+      "femalePopultion": "53895",
+      "workingPopulation": "35.01",
+      "literacyRate": "69.46",
+      "languagesSpoken": [
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "uk.ramnagar",
+      "districtCode": "RAMNAGAR",
+      "population": "17331",
+      "malePopulation": "10521",
+      "femalePopultion": "6810",
+      "workingPopulation": "33.48",
+      "literacyRate": "62.63",
+      "languagesSpoken": [
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "uk.mussorie",
+      "districtCode": "MUSSORIE",
+      "population": "12507",
+      "malePopulation": "6810",
+      "femalePopultion": "5697",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": [
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "uk.kaladhungi",
+      "districtCode": "KALADHUNGI",
+      "population": "12507",
+      "malePopulation": "6810",
+      "femalePopultion": "5697",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": [
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "uk.doiwala",
+      "districtCode": "DOIWALA",
+      "population": "12507",
+      "malePopulation": "6810",
+      "femalePopultion": "5697",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": [
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "uk.uttarakhand",
+      "districtCode": "UTTARAKHAND",
+      "population": "12507",
+      "malePopulation": "6810",
+      "femalePopultion": "5697",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": [
+        "HN",
+        "EN"
+      ]
+    }
+  ]
+}
