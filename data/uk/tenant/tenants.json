@@ -19,7 +19,7 @@
       "city": {
         "name": "Dehradun",
         "localName": "Dehradun",
-        "districtCode": "49",
+        "districtCode": "CITYA",
         "districtName": "Dehradun",
         "regionName": "Gharwal",
         "ulbGrade": "Municipal Corporation",
@@ -52,7 +52,7 @@
       "city": {
         "name": "Haldwani",
         "localName": "Haldwani",
-        "districtCode": "51",
+        "districtCode": "CITYB",
         "districtName": "Nainital",
         "regionName": "Kumaon",
         "ulbGrade": "Municipal Corporation",
@@ -85,7 +85,7 @@
       "city": {
         "name": "Doiwala",
         "localName": "Doiwala",
-        "districtCode": "49",
+        "districtCode": "CITYF",
         "districtName": "Dehradun",
         "regionName": "Garhwal",
         "ulbGrade": "NPP",
@@ -118,7 +118,7 @@
       "city": {
         "name": "Ramnagar",
         "localName": "Ramnagar",
-        "districtCode": "51",
+        "districtCode": "CITYC",
         "districtName": "Nainital",
         "regionName": "Kumaon",
         "ulbGrade": "NPP",
@@ -151,7 +151,7 @@
       "city": {
         "name": "Kaladhungi",
         "localName": "Kaladhungi",
-        "districtCode": "51",
+        "districtCode": "CITYE",
         "districtName": "Nainital",
         "regionName": "Kumaon",
         "ulbGrade": "NP",
@@ -184,7 +184,7 @@
       "city": {
         "name": "Mussorie",
         "localName": "Mussorie",
-        "districtCode": "49",
+        "districtCode": "CITYD",
         "districtName": "Dehradun",
         "regionName": "Garhwal",
         "ulbGrade": "NPP",

@@ -4,7 +4,7 @@
   "tenantInfo": [
     {
       "code": "uk.dehradun",
-      "districtCode": "49",
+      "districtCode": "CITYA",
       "population": "1234",
       "malePopulation": "12",
       "femalePopultion": "134",
@@ -17,7 +17,7 @@
     },
     {
       "code": "uk.haldwani",
-      "districtCode": "51",
+      "districtCode": "CITYB",
       "population": "116449",
       "malePopulation": "62554",
       "femalePopultion": "53895",
@@ -30,7 +30,7 @@
     },
     {
       "code": "uk.ramnagar",
-      "districtCode": "51",
+      "districtCode": "CITYC",
       "population": "17331",
       "malePopulation": "10521",
       "femalePopultion": "6810",
@@ -43,7 +43,7 @@
     },
     {
       "code": "uk.mussorie",
-      "districtCode": "49",
+      "districtCode": "CITYD",
       "population": "12507",
       "malePopulation": "6810",
       "femalePopultion": "5697",
@@ -56,7 +56,7 @@
     },
     {
       "code": "uk.kaladhungi",
-      "districtCode": "51",
+      "districtCode": "CITYE",
       "population": "12507",
       "malePopulation": "6810",
       "femalePopultion": "5697",
@@ -69,7 +69,7 @@
     },
     {
       "code": "uk.doiwala",
-      "districtCode": "49",
+      "districtCode": "CITYF",
       "population": "12507",
       "malePopulation": "6810",
       "femalePopultion": "5697",
