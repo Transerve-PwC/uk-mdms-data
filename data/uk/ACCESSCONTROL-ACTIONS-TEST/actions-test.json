@@ -4261,7 +4261,7 @@
         "parentModule": "",
         "displayName": "View Detailed Code",
         "orderNumber": 2,
-        "enabled": false,
+        "enabled": true,
         "serviceCode": "FinanceMaster",
         "code": "null",
         "leftIcon": "editor:insert-chart",
