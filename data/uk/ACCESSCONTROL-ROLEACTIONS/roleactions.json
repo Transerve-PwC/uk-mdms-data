@@ -8991,7 +8991,7 @@
       "tenantId": "uk"
     },
     {
-      "rolecode": "ADMIN",
+      "rolecode": "SUPERUSER",
       "actionid": 1556,
       "actioncode": "",
       "tenantId": "uk"
