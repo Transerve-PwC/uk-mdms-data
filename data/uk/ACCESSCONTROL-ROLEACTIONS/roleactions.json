@@ -8991,6 +8991,12 @@
       "tenantId": "uk"
     },
     {
+      "rolecode": "ADMIN",
+      "actionid": 1556,
+      "actioncode": "",
+      "tenantId": "uk"
+    },
+    {
       "rolecode": "PGR-ADMIN",
       "actionid": 1556,
       "actioncode": "",
