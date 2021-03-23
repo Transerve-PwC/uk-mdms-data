@@ -27,7 +27,7 @@
         "latitude": 30.3165,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "248430",
+        "code": "DD-248430",
         "regionCode": "1",
         "municipalityName": "Dehradun Municipal Corporation",
         "ddrName": "Dehradun"
@@ -60,7 +60,7 @@
         "latitude": 29.2183,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "248459",
+        "code": "HD-248459",
         "regionCode": "2",
         "municipalityName": "Haldwani Municipal Corporation",
         "ddrName": "Nainital"
@@ -93,7 +93,7 @@
         "latitude": "",
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "248433",
+        "code": "DO-248433",
         "regionCode": "1",
         "municipalityName": "Doiwala Nagar Palika Parishad ",
         "ddrName": "Dehradun"
@@ -126,7 +126,7 @@
         "latitude": "",
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "248457",
+        "code": "RN-248457",
         "regionCode": "2",
         "municipalityName": "Ramnagar Nagar Palika Parishad",
         "ddrName": "Nainital"
@@ -159,7 +159,7 @@
         "latitude": "",
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "248458",
+        "code": "KL-248458",
         "regionCode": "2",
         "municipalityName": "Kaladhugi Nagar Panchayat",
         "ddrName": "Nainital"
@@ -192,7 +192,7 @@
         "latitude": null,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "248429",
+        "code": "MU-248429",
         "regionCode": "1",
         "municipalityName": "Nagar Palika Parishad Mussorie",
         "ddrName": "Dehradun"
