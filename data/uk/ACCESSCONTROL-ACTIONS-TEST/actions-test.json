@@ -8712,6 +8712,28 @@
         "serviceCode": "sw-calculator",
         "code": "null",
         "path": ""
-     }
+     },
+     {
+      "id": 2024,
+      "name": "ReceiptRegisterMetadata",
+      "url": "/report/finance/ReceiptRegister/metadata/_get",
+      "displayName": "ReceiptRegister metadata",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "COLLECTIONS",
+      "code": "null",
+      "path": ""
+   },
+   {
+      "id": 2025,
+      "name": "BankRemittance Metadata",
+      "url": "/report/finance/BankRemittance/metadata/_get",
+      "displayName": "BankRemittance metadata",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "COLLECTIONS",
+      "code": "null",
+      "path": ""
+   }
   ]
 }

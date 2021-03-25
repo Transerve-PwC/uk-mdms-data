@@ -16370,6 +16370,18 @@
       "actionid": 2021,
       "actioncode": "",
       "tenantId": "uk"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2024,
+      "actioncode": "",
+      "tenantId": "uk"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2024,
+      "actioncode": "",
+      "tenantId": "uk"
     }
   ]
 }
