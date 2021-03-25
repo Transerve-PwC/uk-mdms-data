@@ -4,17 +4,17 @@
   "Department": [
         {
             "name": "Administration",
-            "code": "ADM",
+            "code": "DEPT_4",
             "active": true
         },
         {
             "name": "Revenue",
-            "code": "REV",
+            "code": "DEPT_13",
             "active": true
         },
         {
             "name": "Accounts",
-            "code": "ACN",
+            "code": "DEPT_35",
             "active": true
         },
         {
