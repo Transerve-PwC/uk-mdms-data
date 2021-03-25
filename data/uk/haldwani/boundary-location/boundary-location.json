@@ -1,0 +1,11 @@
+{
+  "tenantId": "uk.haldwani",
+  "moduleName": "boundary-location",
+  "mapDetails": [
+    {
+      "mapurl": "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+      "nagarNigamLat": "29.219677",
+      "nagarNigamLng": "79.512459"
+    }
+  ]
+}

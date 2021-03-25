@@ -1,0 +1,11 @@
+{
+  "tenantId": "uk.ramnagar",
+  "moduleName": "boundary-location",
+  "mapDetails": [
+    {
+      "mapurl": "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+      "nagarNigamLat": "29.394764",
+      "nagarNigamLng": "79.126503"
+    }
+  ]
+}

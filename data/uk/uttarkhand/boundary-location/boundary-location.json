@@ -1,0 +1,11 @@
+{
+  "tenantId": "up.moradabad",
+  "moduleName": "boundary-location",
+  "mapDetails": [
+    {
+      "mapurl": "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+      "nagarNigamLat": "28.84433",
+      "nagarNigamLng": "78.7645555"
+    }
+  ]
+}

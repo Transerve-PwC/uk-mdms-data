@@ -1,0 +1,11 @@
+{
+  "tenantId": "uk.doiwala",
+  "moduleName": "boundary-location",
+  "mapDetails": [
+    {
+      "mapurl": "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+      "nagarNigamLat": "30.1800",
+      "nagarNigamLng": "78.1200"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "tenantId": "uk.dehradun",
+  "moduleName": "boundary-location",
+  "mapDetails": [
+    {
+      "mapurl": "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+      "nagarNigamLat": "30.316496",
+      "nagarNigamLng": "78.032188"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "tenantId": "uk.mussorie",
+  "moduleName": "boundary-location",
+  "mapDetails": [
+    {
+      "mapurl": "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+      "nagarNigamLat": "30.459909",
+      "nagarNigamLng": "78.066399"
+    }
+  ]
+}
