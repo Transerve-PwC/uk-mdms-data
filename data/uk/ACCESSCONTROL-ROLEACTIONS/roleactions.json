@@ -16406,6 +16406,18 @@
       "actionid": 1897,
       "actioncode": "",
       "tenantId": "uk"
+    },
+    {
+      "rolecode": "SYS_INTEGRATOR_FINANCE",
+      "actionid": 1897,
+      "actioncode": "",
+      "tenantId": "uk"
+    },
+    {
+      "rolecode": "SYS_INTEGRATOR_FINANCE",
+      "actionid": 2026,
+      "actioncode": "",
+      "tenantId": "uk"
     }
   ]
 }
