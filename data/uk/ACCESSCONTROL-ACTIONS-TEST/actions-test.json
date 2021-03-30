@@ -8734,6 +8734,17 @@
       "serviceCode": "COLLECTIONS",
       "code": "null",
       "path": ""
+   },
+   {
+      "id": 2026,
+      "name": "Search Finance Voucher",
+      "url": "/services/EGF/rest/voucher/_searchbyserviceandreference",
+      "displayName": "Search Finance Voucher",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "VOUCHER",
+      "code": "null",
+      "path": ""
    }
   ]
 }
