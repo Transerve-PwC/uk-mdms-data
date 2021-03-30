@@ -16382,6 +16382,18 @@
       "actionid": 2024,
       "actioncode": "",
       "tenantId": "uk"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 207,
+      "actioncode": "",
+      "tenantId": "uk"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 1689,
+      "actioncode": "",
+      "tenantId": "uk"
     }
   ]
 }
