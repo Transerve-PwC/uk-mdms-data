@@ -610,7 +610,7 @@
                 "attribute" : {
                   "jsonPath" : "*/username"
                 },
-                "accessType" : "NONE"
+                "accessType" : "PLAIN"
               },
               {
                 "attribute" : {
@@ -1146,7 +1146,7 @@
                 "attribute" : {
                   "jsonPath" : "*/username"
                 },
-                "accessType" : "NONE"
+                "accessType" : "PLAIN"
               },
               {
                 "attribute" : {
