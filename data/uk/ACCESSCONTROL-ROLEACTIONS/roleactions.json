@@ -16418,6 +16418,19 @@
       "actionid": 2026,
       "actioncode": "",
       "tenantId": "uk"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 1689,
+      "actioncode": "",
+      "tenantId": "uk"
+    },
+    {
+      "rolecode": "PT_CEMP",
+      "actionid": 1689,
+      "actioncode": "",
+      "tenantId": "uk"
     }
+    
   ]
 }
