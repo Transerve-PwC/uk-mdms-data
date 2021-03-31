@@ -16415,7 +16415,7 @@
     },
     {
       "rolecode": "SYS_INTEGRATOR_FINANCE",
-      "actionid": 2026,
+      "actionid": 2027,
       "actioncode": "",
       "tenantId": "uk"
     },
@@ -16428,6 +16428,18 @@
     {
       "rolecode": "PT_CEMP",
       "actionid": 1689,
+      "actioncode": "",
+      "tenantId": "uk"
+    },
+    {
+      "rolecode": "PT_CEMP",
+      "actionid": 2027,
+      "actioncode": "",
+      "tenantId": "uk"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2027,
       "actioncode": "",
       "tenantId": "uk"
     }
