@@ -81,44 +81,8 @@
       "tenantId": "uk"
     },
     {
-      "rolecode": "EGF_ADMINISTRATOR",
-      "actionid": 631,
-      "actioncode": "",
-      "tenantId": "uk"
-    },
-    {
       "rolecode": "SUPERUSER",
       "actionid": 419,
-      "actioncode": "",
-      "tenantId": "uk"
-    },
-    {
-      "rolecode": "EGF_ADMINISTRATOR",
-      "actionid": 632,
-      "actioncode": "",
-      "tenantId": "uk"
-    },
-    {
-      "rolecode": "EGF_ADMINISTRATOR",
-      "actionid": 633,
-      "actioncode": "",
-      "tenantId": "uk"
-    },
-    {
-      "rolecode": "EGF_ADMINISTRATOR",
-      "actionid": 433,
-      "actioncode": "",
-      "tenantId": "uk"
-    },
-    {
-      "rolecode": "EGF_ADMINISTRATOR",
-      "actionid": 434,
-      "actioncode": "",
-      "tenantId": "uk"
-    },
-    {
-      "rolecode": "EGF_ADMINISTRATOR",
-      "actionid": 435,
       "actioncode": "",
       "tenantId": "uk"
     },
@@ -153,24 +117,6 @@
       "tenantId": "uk"
     },
     {
-      "rolecode": "EGF_ADMINISTRATOR",
-      "actionid": 634,
-      "actioncode": "",
-      "tenantId": "uk"
-    },
-    {
-      "rolecode": "EGF_ADMINISTRATOR",
-      "actionid": 635,
-      "actioncode": "",
-      "tenantId": "uk"
-    },
-    {
-      "rolecode": "EGF_ADMINISTRATOR",
-      "actionid": 636,
-      "actioncode": "",
-      "tenantId": "uk"
-    },
-    {
       "rolecode": "SUPERUSER",
       "actionid": 634,
       "actioncode": "",
@@ -195,24 +141,6 @@
       "tenantId": "uk"
     },
     {
-      "rolecode": "EGF_ADMINISTRATOR",
-      "actionid": 637,
-      "actioncode": "",
-      "tenantId": "uk"
-    },
-    {
-      "rolecode": "EGF_ADMINISTRATOR",
-      "actionid": 638,
-      "actioncode": "",
-      "tenantId": "uk"
-    },
-    {
-      "rolecode": "EGF_ADMINISTRATOR",
-      "actionid": 639,
-      "actioncode": "",
-      "tenantId": "uk"
-    },
-    {
       "rolecode": "SUPERUSER",
       "actionid": 637,
       "actioncode": "",
@@ -227,24 +155,6 @@
     {
       "rolecode": "SUPERUSER",
       "actionid": 639,
-      "actioncode": "",
-      "tenantId": "uk"
-    },
-    {
-      "rolecode": "EGF_ADMINISTRATOR",
-      "actionid": 640,
-      "actioncode": "",
-      "tenantId": "uk"
-    },
-    {
-      "rolecode": "EGF_ADMINISTRATOR",
-      "actionid": 641,
-      "actioncode": "",
-      "tenantId": "uk"
-    },
-    {
-      "rolecode": "EGF_ADMINISTRATOR",
-      "actionid": 642,
       "actioncode": "",
       "tenantId": "uk"
     },
@@ -267,24 +177,6 @@
       "tenantId": "uk"
     },
     {
-      "rolecode": "EGF_ADMINISTRATOR",
-      "actionid": 643,
-      "actioncode": "",
-      "tenantId": "uk"
-    },
-    {
-      "rolecode": "EGF_ADMINISTRATOR",
-      "actionid": 644,
-      "actioncode": "",
-      "tenantId": "uk"
-    },
-    {
-      "rolecode": "EGF_ADMINISTRATOR",
-      "actionid": 645,
-      "actioncode": "",
-      "tenantId": "uk"
-    },
-    {
       "rolecode": "SUPERUSER",
       "actionid": 643,
       "actioncode": "",
@@ -299,24 +191,6 @@
     {
       "rolecode": "SUPERUSER",
       "actionid": 645,
-      "actioncode": "",
-      "tenantId": "uk"
-    },
-    {
-      "rolecode": "EGF_ADMINISTRATOR",
-      "actionid": 646,
-      "actioncode": "",
-      "tenantId": "uk"
-    },
-    {
-      "rolecode": "EGF_ADMINISTRATOR",
-      "actionid": 647,
-      "actioncode": "",
-      "tenantId": "uk"
-    },
-    {
-      "rolecode": "EGF_ADMINISTRATOR",
-      "actionid": 648,
       "actioncode": "",
       "tenantId": "uk"
     },
@@ -339,24 +213,6 @@
       "tenantId": "uk"
     },
     {
-      "rolecode": "EGF_ADMINISTRATOR",
-      "actionid": 649,
-      "actioncode": "",
-      "tenantId": "uk"
-    },
-    {
-      "rolecode": "EGF_ADMINISTRATOR",
-      "actionid": 650,
-      "actioncode": "",
-      "tenantId": "uk"
-    },
-    {
-      "rolecode": "EGF_ADMINISTRATOR",
-      "actionid": 651,
-      "actioncode": "",
-      "tenantId": "uk"
-    },
-    {
       "rolecode": "SUPERUSER",
       "actionid": 649,
       "actioncode": "",
@@ -371,234 +227,6 @@
     {
       "rolecode": "SUPERUSER",
       "actionid": 651,
-      "actioncode": "",
-      "tenantId": "uk"
-    },
-    {
-      "rolecode": "EGF_ADMINISTRATOR",
-      "actionid": 652,
-      "actioncode": "",
-      "tenantId": "uk"
-    },
-    {
-      "rolecode": "EGF_ADMINISTRATOR",
-      "actionid": 653,
-      "actioncode": "",
-      "tenantId": "uk"
-    },
-    {
-      "rolecode": "EGF_ADMINISTRATOR",
-      "actionid": 654,
-      "actioncode": "",
-      "tenantId": "uk"
-    },
-    {
-      "rolecode": "EGF_ADMINISTRATOR",
-      "actionid": 655,
-      "actioncode": "",
-      "tenantId": "uk"
-    },
-    {
-      "rolecode": "EGF_ADMINISTRATOR",
-      "actionid": 656,
-      "actioncode": "",
-      "tenantId": "uk"
-    },
-    {
-      "rolecode": "EGF_ADMINISTRATOR",
-      "actionid": 657,
-      "actioncode": "",
-      "tenantId": "uk"
-    },
-    {
-      "rolecode": "EGF_ADMINISTRATOR",
-      "actionid": 658,
-      "actioncode": "",
-      "tenantId": "uk"
-    },
-    {
-      "rolecode": "EGF_ADMINISTRATOR",
-      "actionid": 659,
-      "actioncode": "",
-      "tenantId": "uk"
-    },
-    {
-      "rolecode": "EGF_ADMINISTRATOR",
-      "actionid": 660,
-      "actioncode": "",
-      "tenantId": "uk"
-    },
-    {
-      "rolecode": "EGF_ADMINISTRATOR",
-      "actionid": 661,
-      "actioncode": "",
-      "tenantId": "uk"
-    },
-    {
-      "rolecode": "EGF_ADMINISTRATOR",
-      "actionid": 662,
-      "actioncode": "",
-      "tenantId": "uk"
-    },
-    {
-      "rolecode": "EGF_ADMINISTRATOR",
-      "actionid": 663,
-      "actioncode": "",
-      "tenantId": "uk"
-    },
-    {
-      "rolecode": "EGF_ADMINISTRATOR",
-      "actionid": 664,
-      "actioncode": "",
-      "tenantId": "uk"
-    },
-    {
-      "rolecode": "EGF_ADMINISTRATOR",
-      "actionid": 665,
-      "actioncode": "",
-      "tenantId": "uk"
-    },
-    {
-      "rolecode": "EGF_ADMINISTRATOR",
-      "actionid": 666,
-      "actioncode": "",
-      "tenantId": "uk"
-    },
-    {
-      "rolecode": "EGF_ADMINISTRATOR",
-      "actionid": 667,
-      "actioncode": "",
-      "tenantId": "uk"
-    },
-    {
-      "rolecode": "EGF_ADMINISTRATOR",
-      "actionid": 668,
-      "actioncode": "",
-      "tenantId": "uk"
-    },
-    {
-      "rolecode": "EGF_ADMINISTRATOR",
-      "actionid": 669,
-      "actioncode": "",
-      "tenantId": "uk"
-    },
-    {
-      "rolecode": "EGF_ADMINISTRATOR",
-      "actionid": 670,
-      "actioncode": "",
-      "tenantId": "uk"
-    },
-    {
-      "rolecode": "EGF_ADMINISTRATOR",
-      "actionid": 671,
-      "actioncode": "",
-      "tenantId": "uk"
-    },
-    {
-      "rolecode": "EGF_ADMINISTRATOR",
-      "actionid": 673,
-      "actioncode": "",
-      "tenantId": "uk"
-    },
-    {
-      "rolecode": "EGF_ADMINISTRATOR",
-      "actionid": 674,
-      "actioncode": "",
-      "tenantId": "uk"
-    },
-    {
-      "rolecode": "EGF_ADMINISTRATOR",
-      "actionid": 675,
-      "actioncode": "",
-      "tenantId": "uk"
-    },
-    {
-      "rolecode": "EGF_ADMINISTRATOR",
-      "actionid": 676,
-      "actioncode": "",
-      "tenantId": "uk"
-    },
-    {
-      "rolecode": "EGF_ADMINISTRATOR",
-      "actionid": 677,
-      "actioncode": "",
-      "tenantId": "uk"
-    },
-    {
-      "rolecode": "EGF_ADMINISTRATOR",
-      "actionid": 678,
-      "actioncode": "",
-      "tenantId": "uk"
-    },
-    {
-      "rolecode": "EGF_ADMINISTRATOR",
-      "actionid": 679,
-      "actioncode": "",
-      "tenantId": "uk"
-    },
-    {
-      "rolecode": "EGF_ADMINISTRATOR",
-      "actionid": 680,
-      "actioncode": "",
-      "tenantId": "uk"
-    },
-    {
-      "rolecode": "EGF_ADMINISTRATOR",
-      "actionid": 681,
-      "actioncode": "",
-      "tenantId": "uk"
-    },
-    {
-      "rolecode": "EGF_ADMINISTRATOR",
-      "actionid": 682,
-      "actioncode": "",
-      "tenantId": "uk"
-    },
-    {
-      "rolecode": "EGF_ADMINISTRATOR",
-      "actionid": 683,
-      "actioncode": "",
-      "tenantId": "uk"
-    },
-    {
-      "rolecode": "EGF_ADMINISTRATOR",
-      "actionid": 684,
-      "actioncode": "",
-      "tenantId": "uk"
-    },
-    {
-      "rolecode": "EGF_ADMINISTRATOR",
-      "actionid": 685,
-      "actioncode": "",
-      "tenantId": "uk"
-    },
-    {
-      "rolecode": "EGF_ADMINISTRATOR",
-      "actionid": 686,
-      "actioncode": "",
-      "tenantId": "uk"
-    },
-    {
-      "rolecode": "EGF_ADMINISTRATOR",
-      "actionid": 687,
-      "actioncode": "",
-      "tenantId": "uk"
-    },
-    {
-      "rolecode": "EGF_ADMINISTRATOR",
-      "actionid": 688,
-      "actioncode": "",
-      "tenantId": "uk"
-    },
-    {
-      "rolecode": "EGF_ADMINISTRATOR",
-      "actionid": 689,
-      "actioncode": "",
-      "tenantId": "uk"
-    },
-    {
-      "rolecode": "EGF_ADMINISTRATOR",
-      "actionid": 690,
       "actioncode": "",
       "tenantId": "uk"
     },
